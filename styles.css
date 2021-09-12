@@ -67,7 +67,7 @@ body{
 
 /* Showcase */
 #showcase{
-  height: 30em;
+  height: 100vh;
   background: url(website.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
