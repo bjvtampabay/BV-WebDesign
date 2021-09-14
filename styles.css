@@ -67,7 +67,7 @@ body{
 
 /* Showcase */
 #showcase{
-  height: 30em;
+  height: 32em;
   background: url(website.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -93,7 +93,6 @@ body{
 #boxes{
   border-top: 1px outset #000000;
   border-bottom: 1px outset #000000;
-  padding-top: 1em;
   height: 440px;
   background-color: #f9f9f9;
   display: flex;
@@ -104,7 +103,7 @@ body{
 
 #boxes .box{
   text-align: center;
-  padding:35px 10px 0 0;
+  padding: 0 10px 0 0;
 }
 
 
