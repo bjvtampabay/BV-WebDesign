@@ -70,7 +70,7 @@ body{
   height: 32em;
   background: url(website.png);
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: scroll;
   width: 100%;
   text-align: center;
   color: rgb(1, 9, 36);
