@@ -68,9 +68,10 @@ body{
 /* Showcase */
 #showcase{
   height: 32em;
-  background: url(website.png);
+  background-image: url(website.png);
+  background-color: rgba(0, 0, 0, 0.6);
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   width: 100%;
   text-align: center;
   color: rgb(1, 9, 36);
