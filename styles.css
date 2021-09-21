@@ -69,7 +69,7 @@ body{
 #showcase{
   height: 32em;
   background-image: url(website.png);
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.8);
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
