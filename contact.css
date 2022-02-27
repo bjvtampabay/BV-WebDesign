@@ -20,7 +20,7 @@ body{
 
 /* NavBar */
 .navbar{
-  height: 85px;
+  height: 90px;
   background-color: rgb(1, 9, 36);
   color: #ffffff;
   border-bottom: 1px outset rgb(0, 0, 0);
@@ -40,12 +40,12 @@ body{
 .navbar ul{
   float: right;
   list-style: none;
-  margin: 2em 0 0 0;
+  margin: 1em 0 0 0;
 }
 
 .navbar ul li{
   float: left;
-  padding: 0 0 10px 20px;
+  padding: 0 0 5px 5px;
 }
 
 .navbar a{
