@@ -9,11 +9,11 @@
 body{
   font-family: helvetica;
   text-align: center;
-  background-color: rgb(121, 121, 121);
+  background-color: white);
 }
 
 .container{
-  width: 94%;
+  width: 95%;
   margin: auto;
   overflow: hidden;
 }
@@ -29,8 +29,8 @@ body{
 .logo h1{
   float: left;
   margin: .5em 0 0 0;
-  font-weight: 800;
-  font-size: 222%;
+  font-weight: 700;
+  font-size: 225%;
 }
 
 .logo a{
@@ -40,12 +40,12 @@ body{
 .navbar ul{
   float: right;
   list-style: none;
-  margin: 1em 0 0 0;
+  margin: 1.5em 0 0 0;
 }
 
 .navbar ul li{
   float: left;
-  padding: 0 0 5px 5px;
+  padding: 8px;
 }
 
 .navbar a{
@@ -65,7 +65,7 @@ body{
 header h1{
 	color: rgb(1, 9, 36);
 	margin-top: 2em;
-	font-weight: 800;
+	font-weight: 700;
 	font-size:240%;
 	text-decoration: underline;
 	text-decoration-color:  rgb(1, 9, 36);
@@ -73,7 +73,9 @@ header h1{
 }
 
 form	{margin-top: 2em;
-	transition: all 1.6s ease;}
+	transition: all 1.6s ease;
+	background:white;
+}
 
 form .submit	{
 	background: #000066;
